@@ -3,5 +3,5 @@ hello beta
 hello delta
 hello gamma
 
-let's make money together.
+let's make money together. can we?
       
